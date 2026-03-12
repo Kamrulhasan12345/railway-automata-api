@@ -13,7 +13,7 @@
     "elysia": "^1.2.14",
     "http-proxy-agent": "^7.0.2",
     "request": "^2.88.2",
-    "socks-proxy-agent": "^8.0.5",
+    "socks-proxy-agent": "^9.0.0",
     "socks5-http-client": "^1.0.4"
   }
 }
